@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+app/__pycache__/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+MANIFEST
+
+# Translations
+*.mo
+*.pot
+
+# Databases
+*.db
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Credentials
