@@ -27,3 +27,7 @@ env.bak/
 venv.bak/
 
 # Credentials
+config.py
+
+# OS files
+.DS_Store
