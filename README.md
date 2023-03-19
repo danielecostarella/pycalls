@@ -9,7 +9,7 @@ Installation
 1.  Clone the repository: `git clone https://github.com/danielecostarella/pycalls.git`
 2.  Install dependencies: `pip install -r requirements.txt`
 3.  Rename `config-template.py` to `config.py`
-4.  Configure the application by editing the ``config.py` file.
+4.  Configure the application by editing the `config.py` file.
 4.  Run the application: `python main.py`
 
 Features
